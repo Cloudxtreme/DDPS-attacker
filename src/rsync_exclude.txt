@@ -1,0 +1,7 @@
+rsync_exclude.txt
+download-*
+remote.sh
+*.bak
+remote.sh.log
+*.swp
+obsolite
