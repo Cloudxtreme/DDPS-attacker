@@ -9,7 +9,7 @@ templates history. You may find ``remove-git-history.sh`` useful, it is there
 for your convenience.
 
 Also, this template is twofold and has a _source_ (``src``) and _docs_ (``docs``)
-directory structure, feel free to delete or modify to your harts desire.
+directory structure, feel free to delete or modify to your heart desire.
 
 The _docs_ directory contains a markdown based [text bundle](textbundle.org)
 skeleton except for the _json_ file - and the ``assets`` directory has been
